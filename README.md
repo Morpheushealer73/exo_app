@@ -1,2 +1,2 @@
-# exo_app
- EXO app source code for thesis
+# Exo Mobile APP
+ EXO mobile app source code for thesis
